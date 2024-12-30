@@ -1,0 +1,6 @@
+*.txt
+*.dSYM
+*.o
+poke
+--connect=57500
+*.gz
